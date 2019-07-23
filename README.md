@@ -1,0 +1,1 @@
+This is a simple Embedded Project. The project is about a digital home. It is just a sample project. Basically when a person comes infront of the door then the door will automatically open. The project is done in Arduino. The project is for Embedded Systems course for my University (Daffodil International University) .
